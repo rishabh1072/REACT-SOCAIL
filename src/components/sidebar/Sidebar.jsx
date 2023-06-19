@@ -60,19 +60,19 @@ export default function Sidebar() {
         <hr className='sidebarHr' />
         <ul className="sidebarFriendList">
           <li className="sidebarFriend">
-            <img classname="sidebarFriendImg" src="assets/Elon_Musk_Royal_Society_(crop2).jpg" alt="" />
+            <img className="sidebarFriendImg" src="assets/Elon_Musk_Royal_Society_(crop2).jpg" alt="" />
             <span className="sidebarFriendName">Shrey Yadav</span>
           </li>
           <li className="sidebarFriend">
-            <img classname="sidebarFriendImg" src="assets/Elon_Musk_Royal_Society_(crop2).jpg" alt="" />
+            <img className="sidebarFriendImg" src="assets/Elon_Musk_Royal_Society_(crop2).jpg" alt="" />
             <span className="sidebarFriendName">Rajesh Kumar</span>
           </li>
           <li className="sidebarFriend">
-            <img classname="sidebarFriendImg" src="assets/Elon_Musk_Royal_Society_(crop2).jpg" alt="" />
+            <img className="sidebarFriendImg" src="assets/Elon_Musk_Royal_Society_(crop2).jpg" alt="" />
             <span className="sidebarFriendName">Nikhil Mehra</span>
           </li>
           <li className="sidebarFriend">
-            <img classname="sidebarFriendImg" src="assets/Elon_Musk_Royal_Society_(crop2).jpg" alt="" />
+            <img className="sidebarFriendImg" src="assets/Elon_Musk_Royal_Society_(crop2).jpg" alt="" />
             <span className="sidebarFriendName">Shrey Yadav</span>
           </li>
         </ul>
